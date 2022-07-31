@@ -1,6 +1,7 @@
 # phpmyadmin-setup-linux-stepByStepProcess
-In this repository. i have written a step to setup phpmyadmin in linux for beginners.
+<img src="images/download.png" width="500" height="250">
 
+In this repository. i have written a step to setup phpmyadmin in linux for beginners.
 
 # Setup Process of PhpMyAdmin in Linux.
 
